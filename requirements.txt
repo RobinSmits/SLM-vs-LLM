@@ -1,0 +1,7 @@
+datasets
+matplotlib
+pandas
+scikit-learn
+seaborn
+sentence-transformers
+wordcloud
